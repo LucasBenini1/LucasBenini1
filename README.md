@@ -10,8 +10,9 @@ Desenvolvedor Front-End apaixonado pela lógica e criação que a programação 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=LucasBenini1.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=DevCurrency-CriptoCoin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=Linktree&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=Carrinho-de-Compras&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
