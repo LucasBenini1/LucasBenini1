@@ -1,23 +1,25 @@
-### Olá 👋
+# Olá 👋
 
-###### Sobre o Lucas
-Desenvolvedor Front-End apaixonado pela lógica e criação que a programação nos fornece. Saiba mais sobre mim!
+## Sobre mim
 
+Desenvolvedor Front-End apaixonado pela lógica e criação que a programação nos fornece.
 
-### Detalhes
+➡️ Saiba mais: LinkedIn
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBenini1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas
 
-### Projetos
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBenini1&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=DevCurrency-CriptoCoin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=Linktree&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasBenini1&repo=Carrinho-de-Compras&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Projetos
 
-### Linguagens utilizadas
+- DevCurrency-CriptoCoin
+- Linktree
+- Carrinho-de-Compras
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBenini1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Linguagens
 
-### Contatos
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBenini1&layout=compact&theme=dark)
+
+## 📫 Contato
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucasbenini/)
